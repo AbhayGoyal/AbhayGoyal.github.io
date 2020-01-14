@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Abhay Goyal
+description: Stony Brook | Computer Science | Machine Learning
+plugins:
+  - jekyll-seo-tag
