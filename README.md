@@ -13,7 +13,7 @@ I have worked on several projects which can be seen from my resume [here](https:
 # Contact
 * Linkedin: [/abhay-goyal-at-work](https://www.linkedin.com/in/abhay-goyal-at-work)
 * github: [AbhayGoyal](https://www.github.com/AbhayGoyal/)
-* Kaggle: [/ronakshah52](https://www.kaggle.com/ronakshah52)
+* Kaggle: [/AbhayGoyal](https://www.kaggle.com/golion)
 
 # Personal Projects
 1. [Retail Sales Analysis](http://datascience.ronakshah.xyz/Data-Is-beautiful-Geriatric/)
