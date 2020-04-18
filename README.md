@@ -22,7 +22,7 @@ Data Science Fundamentals, Probability and Statistics for Data Science, Visualiz
 # Tableau Work :- [here](https://public.tableau.com/profile/abhay2071#!/?newProfile=&activeTab=0)
 
 # Ongoing Projects
-[Dashboard using D3.js]
+Dashboard using D3.js
   * To visualize and understand the adoption of DS and ML methods of organizations and individuals using the ML & DS Survey 2019 
   done by Kaggle.com
   
