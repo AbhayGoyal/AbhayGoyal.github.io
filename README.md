@@ -18,7 +18,7 @@ I have worked on several projects which can be seen from my resume [here](https:
 # Relevant Coursework
 Data Science Fundamentals, Probability and Statistics for Data Science, Visualization, Machine Learning, Databases
 
-#Tableau Work :- [here](https://public.tableau.com/profile/abhay2071#!/?newProfile=&activeTab=0)
+# Tableau Work :- [here](https://public.tableau.com/profile/abhay2071#!/?newProfile=&activeTab=0)
 
 # Ongoing Projects
 [Dashboard using D3.js]
@@ -30,7 +30,7 @@ Objective :- To understand the flow of false memory and how collective memory pl
 
 # Personal Projects
 1. [Retail Sales Analysis](https://github.com/AbhayGoyal/Retail-Sales_Analysis)
-  * To perform analysis, descriptive analytics to increase sales.
+  * To perform descriptive analytics and models to increase sales.
 2. [AMES Housing Project](https://www.kaggle.com/golion/dsf-2/)
   * Visualized and understood the factors affecting house prices and made model to predict them.
 3. [IEEE Fraud Detection](https://www.kaggle.com/golion/abhaygoyal-dsf)
