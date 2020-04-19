@@ -28,6 +28,7 @@ Dashboard using D3.js
   
 # Ongoing Research under [Prof. Christian Luhmann](https://cluhmann.github.io/)
 Objective :- To understand the flow of false memory and how collective memory plays a role in this. 
+Progress : -In this we are starting with understanding how collective memory work. We are currently trying to replicate the working on [this](https://www.pnas.org/content/113/29/8171) paper and using our own metrics of recall and inhibition to show the flow of collective memory. Next we plan to also incorporate the literature on false memory and how can it infect and flow in collective memory.  
 
 # Personal Projects
 1. [Retail Sales Analysis](https://github.com/AbhayGoyal/Retail-Sales_Analysis)
