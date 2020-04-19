@@ -1,6 +1,6 @@
 # Abhay Goyal
 # Bio
-I'm currently a Master's student at Stony Brook University in the Computer Science Department with focus on Data Science, Machine Learning and am actively looking for internship opportunities in Data Science, Analytics, Machine Learning, Data Engineering.
+I'm currently a Master's student at Stony Brook University in the Computer Science Department with focus on Data Science, Machine Learning and am actively looking for internship opportunities in Data Science, Data Analytics, Machine Learning, Data Engineering.
 
 I have worked on several projects which can be seen from my resume [here](https://drive.google.com/file/d/1C2BG05GVFCm-d9lCcSMDerba9pNPr97f/view?usp=sharing). These projects have given me a basic insight into the world of drawing insights to drive businesses and understand the needs of the company.
 
