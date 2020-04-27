@@ -34,11 +34,11 @@ Progress : -In this we are starting with understanding how collective memory wor
 1. [Retail Sales Analysis](https://github.com/AbhayGoyal/Retail-Sales_Analysis)
   * To perform descriptive analytics and models to increase sales.
 2. [AMES Housing Project](https://www.kaggle.com/golion/dsf-2/)
-  * Visualized and understood the factors affecting house prices and made model to predict them.
+  * Analysed and understood the factors affecting house prices and made model to predict them.
 3. [IEEE Fraud Detection](https://www.kaggle.com/golion/abhaygoyal-dsf)
-  * Visualized and did in depth analysis of frauds, how do they occur and when
+  * Analysed and did in depth analysis of frauds, how do they occur and when
 4. [Bank Marketing](https://github.com/AbhayGoyal/Bank_Marketing/)
-  * Tried to understand what kind of people are usually interested in policies from bank, did they take it last time and what chages are made so they take it this time.
+  * Analysed to predict(using Logistic Regression, Random Forest) what policies would people take based on features such as did, what they tak last time, salary, housing etc
 5. [HR Analytics](https://github.com/AbhayGoyal/HR-Analytics/)
   * Did some basic visualizations do understand the satisfaction level of employees, used linear regression to predict it.
 
