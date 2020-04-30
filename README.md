@@ -6,10 +6,10 @@ I have worked on AMES Housing, IEEE Fraud Detection projects which can be seen f
 
 # Education
 
-Degree| University   |Major   |
-|---|---|---|
-Grad|Stony Brook University   |Computer Science   |
-Undergrad|SRM Institute of Science and Technology   |Computer Science   |
+Degree| Major   |University   | Year
+|---|---|---|---|
+Grad|Computer Science   |Stony Brook University| 2019-21   
+Undergrad|Computer Science   |SRM Institute of Science and Technology| 2015-19
 
 # Contact
 * Linkedin: [/abhay-goyal-at-work](https://www.linkedin.com/in/abhay-goyal-at-work)
