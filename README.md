@@ -2,14 +2,14 @@
 # Bio
 I'm currently a Master's student in the Computer Science Department at Stony Brook University. My focus areas are Data Science, Data Analytics, Machine Learning and Data Engineering. I am actively looking for internship opportunities in the same. Data Science, Data Analytics, Machine Learning, Data Engineering.
 
-I have worked on several projects which can be seen from my resume [here](https://drive.google.com/file/d/1C2BG05GVFCm-d9lCcSMDerba9pNPr97f/view?usp=sharing). These projects have given me a basic insight into the world of drawing insights to drive businesses and understand the needs of the company.
+I have worked on AMES Housing, IEEE Fraud Detection projects which can be seen from my resume [here](https://drive.google.com/file/d/1C2BG05GVFCm-d9lCcSMDerba9pNPr97f/view?usp=sharing). These projects have given me a basic insight into the world of drawing insights to drive businesses and understand the needs of the company.
 
 # Education
 
 |University   |Major   |
 |---|---|
-|Stony Brook University   |Computer Science   |
-|SRM Institute of Science and Technology   |Computer Science   |
+Postgrad|Stony Brook University   |Computer Science   |
+Undergrad|SRM Institute of Science and Technology   |Computer Science   |
 
 # Contact
 * Linkedin: [/abhay-goyal-at-work](https://www.linkedin.com/in/abhay-goyal-at-work)
