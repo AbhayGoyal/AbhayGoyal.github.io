@@ -6,9 +6,9 @@ I have worked on AMES Housing, IEEE Fraud Detection projects which can be seen f
 
 # Education
 
-|University   |Major   |
-|---|---|
-Postgrad|Stony Brook University   |Computer Science   |
+Degree| University   |Major   |
+|---|---|---|
+Grad|Stony Brook University   |Computer Science   |
 Undergrad|SRM Institute of Science and Technology   |Computer Science   |
 
 # Contact
