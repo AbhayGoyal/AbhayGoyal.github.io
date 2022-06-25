@@ -1,23 +1,25 @@
 # Abhay Goyal
 # Bio
-I'm currently a Master's student in the Computer Science Department at Stony Brook University. My focus areas are Data Science, Data Analytics, Machine Learning and Data Engineering. I am actively looking for internship opportunities in the same.
+I'm currently a Ph.D. student at Missouri University of Science and Technology (MS&T) under the guidance of Prof Sanjay K. Madria. I have completed my Master's degree in Computer Science from Stony Brook University. My focus areas are Data Science, Data Analytics, Machine Learning, Graph Neural Networks and their applications.
 
-I have worked on AMES Housing, IEEE Fraud Detection projects which can be seen from my resume [here](https://drive.google.com/file/d/1C2BG05GVFCm-d9lCcSMDerba9pNPr97f/view?usp=sharing). These projects have given me a basic insight into the world of drawing insights to drive businesses and understand the needs of the company.
+I have worked on numerous personal and academic projects relating to the different applications in the housing industry (AMES Housing), Fraud detection (IEEE Fraud Detection) and Sales Analysis (Retail Sales Analysis). These projects have gave me an insight into how can ML and DL techniques be used to impact the betterment of the world we live in.
 
 # Education
 
 Degree| Major   |University   | Year
 |---|---|---|---|
-Grad|Computer Science   |Stony Brook University| 2019-21   
-Undergrad|Computer Science   |SRM Institute of Science and Technology| 2015-19
+Doctor of Philosophy (Ph.D.) | Graduate | Computer Science | Missouri University of Science and Technology | 2021-
+Master's in Science (M.S) | Graduate |Computer Science   |Stony Brook University| 2019-2021
+Bachelor of Technology (B.Tech) | Undergraduate |Computer Science   |SRM Institute of Science and Technology| 2015-19
 
 # Contact
-* Linkedin: [/abhay-goyal-at-work](https://www.linkedin.com/in/abhay-goyal-at-work)
-* github: [AbhayGoyal](https://www.github.com/AbhayGoyal/)
+* Linkedin: [/AbhayGoyal](https://www.linkedin.com/in/abhay-goyal-at-work)
+* github: [/AbhayGoyal](https://www.github.com/AbhayGoyal/)
 * Kaggle: [/AbhayGoyal](https://www.kaggle.com/golion)
+* Wordpress : [/AbhayGoyal](https://www.abhaygoyal.wordpress.com)
 
 # Relevant Coursework
-Data Science Fundamentals, Probability and Statistics for Data Science, Visualization, Machine Learning, Databases
+Big Data and Cloud Computing, Mobile Computing, Human-Computer Interaction, Data Science Fundamentals, Probability and Statistics for Data Science, Visualization, Machine Learning, Databases
 
 # Tableau Work :- [here](https://public.tableau.com/profile/abhay2071#!/?newProfile=&activeTab=0)
 
@@ -26,7 +28,10 @@ Dashboard using D3.js
   * To visualize and understand the adoption of DS and ML methods of organizations and individuals using the ML & DS Survey 2019 
   done by Kaggle.com
   
-# Ongoing Research under [Prof. Christian Luhmann](https://cluhmann.github.io/)
+# Research under [Dr. Sanjay K. Madria](https://web.mst.edu/cswebdb/about.html)
+
+  
+# Research under [Dr. Christian Luhmann](https://cluhmann.github.io/)
 Objective :- To understand the flow of false memory and how collective memory plays a role in this. 
 Progress : -In this we are starting with understanding how collective memory work. We are currently trying to replicate the working on [this](https://www.pnas.org/content/113/29/8171) paper and using our own metrics of recall and inhibition to show the flow of collective memory. Next we plan to also incorporate the literature on false memory and how can it infect and flow in collective memory.  
 
@@ -41,5 +46,10 @@ Progress : -In this we are starting with understanding how collective memory wor
   * Analysed to predict(using Logistic Regression, Random Forest) what policies would people take based on features such as did, what they tak last time, salary, housing etc
 5. [HR Analytics](https://github.com/AbhayGoyal/HR-Analytics/)
   * Did some basic visualizations do understand the satisfaction level of employees, used linear regression to predict it.
+6. [Dashboard using D3.js](https://github.com/AbhayGoyal/HR-Analytics/)
+  * To visualize and understand the adoption of DS and ML methods of organizations and individuals using the ML & DS Survey 2019 
+  done by Kaggle.com
+
+
 
   
