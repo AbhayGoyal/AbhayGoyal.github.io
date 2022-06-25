@@ -8,7 +8,7 @@ I have worked on numerous personal and academic projects relating to the differe
 
 Degree| Major   |University   | Year
 |---|---|---|---|
-Doctor of Philosophy (Ph.D.) | Graduate | Computer Science | Missouri University of Science and Technology | 2021-
+Doctor of Philosophy (Ph.D.) | Graduate | Computer Science | Missouri University of Science and Technology | 2021-2025
 Master's in Science (M.S) | Graduate |Computer Science   |Stony Brook University| 2019-2021
 Bachelor of Technology (B.Tech) | Undergraduate |Computer Science   |SRM Institute of Science and Technology| 2015-19
 
