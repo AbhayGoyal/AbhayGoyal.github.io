@@ -29,7 +29,9 @@ Dashboard using D3.js
   done by Kaggle.com
   
 # Research under [Dr. Sanjay K. Madria](https://web.mst.edu/cswebdb/about.html)
-
+Paper published
+[MinerFinder: A GAE-LSTM method for predicting location of miners in underground mines](https://dl.acm.org/doi/abs/10.1145/3557915.3561024)
+[A DTN-based Routing for Efficient Situational Awareness using Location Prediction Model in Underground Mine](https://dl.acm.org/doi/abs/10.1145/3571306.3571439)
   
 
 # Personal Projects
