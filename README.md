@@ -23,15 +23,17 @@ Big Data and Cloud Computing, Mobile Computing, Human-Computer Interaction, Data
 
 # Tableau Work :- [here](https://public.tableau.com/profile/abhay2071#!/?newProfile=&activeTab=0)
 
-# Ongoing Projects
-Dashboard using D3.js
-  * To visualize and understand the adoption of DS and ML methods of organizations and individuals using the ML & DS Survey 2019 
-  done by Kaggle.com
+# Past Experience 
+Interned at Pacific Northwest National Laboratory (PNNL) as a PhD Intern under [Dr. Arnab Bhattacharya]() and [Dr. Veronica Adetolda]() 
   
 # Research under [Dr. Sanjay K. Madria](https://web.mst.edu/cswebdb/about.html)
 Paper published
 1. [MinerFinder: A GAE-LSTM method for predicting location of miners in underground mines](https://dl.acm.org/doi/abs/10.1145/3557915.3561024)
 2. [A DTN-based Routing for Efficient Situational Awareness using Location Prediction Model in Underground Mine](https://dl.acm.org/doi/abs/10.1145/3571306.3571439)
+Work in progress
+1.
+2.
+3.
   
 
 # Personal Projects
