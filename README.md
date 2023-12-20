@@ -1,8 +1,8 @@
 # Abhay Goyal
 # Bio
-I'm currently a Ph.D. student at Missouri University of Science and Technology (MS&T) under the guidance of Prof Sanjay K. Madria. I have completed my Master's degree in Computer Science from Stony Brook University. My focus areas are Data Science, Data Analytics, Machine Learning, Graph Neural Networks and their applications.
+I'm currently a Ph.D. student at Missouri University of Science and Technology (MS&T) under the guidance of Prof Sanjay K. Madria. I have completed my Master's degree in Computer Science from Stony Brook University. My focus areas are Data Science, Data Analytics, Machine Learning, and Graph Neural Networks and their applications.
 
-I have worked on numerous personal and academic projects relating to the different applications in the housing industry (AMES Housing), Fraud detection (IEEE Fraud Detection) and Sales Analysis (Retail Sales Analysis). These projects have gave me an insight into how can ML and DL techniques be used to impact the betterment of the world we live in.
+I have worked on numerous personal and academic projects relating to the different applications in the housing industry (AMES Housing), Fraud detection (IEEE Fraud Detection) and Sales Analysis (Retail Sales Analysis). These projects have given me an insight into how can ML and DL techniques be used to impact the betterment of the world we live in.
 
 # Education
 
