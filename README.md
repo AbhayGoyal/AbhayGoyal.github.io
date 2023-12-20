@@ -30,7 +30,7 @@ Interned at Pacific Northwest National Laboratory (PNNL) as a PhD Intern under [
 Paper published
 1. [MinerFinder: A GAE-LSTM method for predicting location of miners in underground mines](https://dl.acm.org/doi/abs/10.1145/3557915.3561024)
 2. [A DTN-based Routing for Efficient Situational Awareness using Location Prediction Model in Underground Mine](https://dl.acm.org/doi/abs/10.1145/3571306.3571439)
-3. [1. Demo : Miner-Finder: A System for Tracking Miners using GAE-LSTM and Contact Graph Framework in an Underground Mine](https://dl.acm.org/doi/abs/10.1145/3616390.3618290)
+3. [Demo : Miner-Finder: A System for Tracking Miners using GAE-LSTM and Contact Graph Framework in an Underground Mine](https://dl.acm.org/doi/abs/10.1145/3616390.3618290)
 4. [App developed](https://drive.google.com/file/d/1L9wq68fOX6wUJYon6hObCd9YDvM6riGn/view)
    
 Work in progress
